@@ -16,8 +16,8 @@ The trained large language model for the Clinical History and the GruD model are
 
 | Model | Description | Link |
 |----------|----------|----------|
-| Clinical History | Large language model based on PubMedBert | [clinical history](https://huggingface.co/NND-project/Clinical_History_Mekkes_PubmedBert) |
-| Gru-D prediction model | Gru-D prediction model to predict neuropathological diagnosis | [clinical history](https://huggingface.co/NND-project/Clinical_History_Mekkes_GruD) |
+| Mekkes Clinical History | Large language model based on PubMedBert | [clinical history](https://huggingface.co/NND-project/Clinical_History_Mekkes_PubmedBert) |
+| Gru-D prediction model | Gru-D prediction model to predict neuropathological diagnosis | [GruD model](https://huggingface.co/NND-project/Clinical_History_Mekkes_GruD) |
 
 ## Requirements
 | Library | Version | 
