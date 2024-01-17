@@ -9,7 +9,13 @@ This repository contains all the code associated with the publication: "Identifi
 
 Files included here are subdivided into multiple folders:  
 - GruD: Contains code for implementing, running, and analysing the GruD model from [this](https://www.nature.com/articles/s41598-018-24271-9) publication.  
-- TBA: More will be added.
+- Dimensionality reduction: All scripts related to performing the Seurat dimensionality reduction analysis and PCA.
+- ML: Scripts related to ML models such as BOW, SVC, transformer models. Also, scripts for the analysis of the result of the models and the processing of the predictions.
+- Plots: Scripts used for some of the visualizations used in the paper such as the scattermap and heatmap plots.
+- other: Other important scripts for task such as: calculating interoperator agreement, some helper functions, and donor preprocessing.
+
+## Data availability
+TBA
 
 ## Model availability
 The trained large language model for the Clinical History and the GruD model are publicly available on Huggingface via the following links.
