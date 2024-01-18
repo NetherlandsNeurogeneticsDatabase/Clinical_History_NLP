@@ -15,7 +15,8 @@ Files included here are subdivided into multiple folders:
 - other: Other important scripts for task such as: calculating interoperator agreement, some helper functions, and donor preprocessing.
 
 ## Data availability
-TBA
+Data is made available via Zenodo. Data that can be found here includes the donor general information, clinical disease trajectories, NLP training data, and neuropathological diagnosis metadata. Data can be found on the following link: [10.5281/zenodo.10526891](https://zenodo.org/records/10526891)
+
 
 ## Model availability
 The trained large language model for the Clinical History and the GruD model are publicly available on Huggingface via the following links.
