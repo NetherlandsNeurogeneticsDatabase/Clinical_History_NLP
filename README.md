@@ -27,11 +27,22 @@ The trained large language model for the Clinical History and the GruD model are
 | Gru-D prediction model | Gru-D prediction model to predict neuropathological diagnosis | [GruD model](https://huggingface.co/NND-project/Clinical_History_Mekkes_GruD) |
 
 ## Requirements
+
+Python version 3.8.2 and R version 3.4.4 were used with the packages as shown in the table.
+
 | Library | Version | 
 |----------|----------|
-| Pandas |  1.5.3 | 
-| Simpletransformers | 0.64.5 | 
-| More | ??? | 
+| Pandas |  1.3.5 | 
+| Simpletransformers | 0.63.9 | 
+| Fuzzywuzzy | 0.18.0 | 
+| Scikit-learn | 1.0.2 | 
+| Optuna | 3.0.3 | 
+| Seaborn | 0.12.0 | 
+| Matplotlib | 3.6.0 | 
+| SciPy | 1.8.1 | 
+| Statsmodels | 0.13.2 | 
+| Seurat | 0.12.0 | 
+
 
 ## Citation
 <needs to be fully updated>
